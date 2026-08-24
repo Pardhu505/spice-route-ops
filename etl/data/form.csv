@@ -1,0 +1,49 @@
+question_id,form_id,form_name,form_type,section_name,question_text,question_type
+1,101,Opening Checklist,daily_checklist,Store Readiness,Store opened on time?,yes_no
+2,101,Opening Checklist,daily_checklist,Store Readiness,Cash register float counted and verified?,yes_no
+3,101,Opening Checklist,daily_checklist,Store Readiness,POS system functioning correctly?,yes_no
+4,101,Opening Checklist,daily_checklist,Food Safety,Walk-in cooler temperature within range (1-4C)?,yes_no
+5,101,Opening Checklist,daily_checklist,Food Safety,Walk-in freezer temperature within range (-18C or below)?,yes_no
+6,101,Opening Checklist,daily_checklist,Food Safety,Food prep surfaces sanitized?,yes_no
+7,101,Opening Checklist,daily_checklist,Equipment Check,All kitchen equipment powered on and functional?,yes_no
+8,101,Opening Checklist,daily_checklist,Equipment Check,Ice machine functioning properly?,yes_no
+9,101,Opening Checklist,daily_checklist,Equipment Check,Rate overall store readiness (1-5),rating
+10,102,Closing Checklist,daily_checklist,Cash & Register,Cash register reconciled?,yes_no
+11,102,Closing Checklist,daily_checklist,Cash & Register,Daily sales report generated?,yes_no
+12,102,Closing Checklist,daily_checklist,Cleaning,Kitchen deep cleaned?,yes_no
+13,102,Closing Checklist,daily_checklist,Cleaning,Dining area cleaned and sanitized?,yes_no
+14,102,Closing Checklist,daily_checklist,Cleaning,Trash disposed and bins cleaned?,yes_no
+15,102,Closing Checklist,daily_checklist,Security,All equipment powered off (except required)?,yes_no
+16,102,Closing Checklist,daily_checklist,Security,Doors and windows locked?,yes_no
+17,102,Closing Checklist,daily_checklist,Security,Alarm system activated?,yes_no
+18,102,Closing Checklist,daily_checklist,Manager Notes,Rate overall closing quality (1-5),rating
+19,102,Closing Checklist,daily_checklist,Manager Notes,Manager remarks for the day,open_text
+20,103,Hygiene & Food Safety Audit,audit_checklist,Personal Hygiene,Staff wearing clean uniforms and hairnets?,yes_no
+21,103,Hygiene & Food Safety Audit,audit_checklist,Personal Hygiene,Handwashing stations stocked and functional?,yes_no
+22,103,Hygiene & Food Safety Audit,audit_checklist,Personal Hygiene,Staff observed washing hands per protocol?,yes_no
+23,103,Hygiene & Food Safety Audit,audit_checklist,Food Storage,FIFO (first-in-first-out) labeling followed?,yes_no
+24,103,Hygiene & Food Safety Audit,audit_checklist,Food Storage,Raw and cooked items stored separately?,yes_no
+25,103,Hygiene & Food Safety Audit,audit_checklist,Food Storage,All items within expiry date?,yes_no
+26,103,Hygiene & Food Safety Audit,audit_checklist,Food Storage,Cold storage temperature logs maintained?,yes_no
+27,103,Hygiene & Food Safety Audit,audit_checklist,Cleaning & Sanitation,Sanitizer concentration within spec?,yes_no
+28,103,Hygiene & Food Safety Audit,audit_checklist,Cleaning & Sanitation,Cleaning schedule up to date?,yes_no
+29,103,Hygiene & Food Safety Audit,audit_checklist,Cleaning & Sanitation,Grease traps cleaned per schedule?,yes_no
+30,103,Hygiene & Food Safety Audit,audit_checklist,Pest Control,No signs of pest activity observed?,yes_no
+31,103,Hygiene & Food Safety Audit,audit_checklist,Pest Control,Pest control service up to date?,yes_no
+32,103,Hygiene & Food Safety Audit,audit_checklist,Pest Control,Waste storage area secured?,yes_no
+33,103,Hygiene & Food Safety Audit,audit_checklist,Overall,Auditor overall hygiene rating (1-5),rating
+34,104,Kitchen Equipment Audit,audit_checklist,Refrigeration,Walk-in cooler compressor functioning normally?,yes_no
+35,104,Kitchen Equipment Audit,audit_checklist,Refrigeration,Walk-in freezer compressor functioning normally?,yes_no
+36,104,Kitchen Equipment Audit,audit_checklist,Refrigeration,Refrigeration door seals intact?,yes_no
+37,104,Kitchen Equipment Audit,audit_checklist,Cooking Equipment,Grills/fryers functioning at correct temperature?,yes_no
+38,104,Kitchen Equipment Audit,audit_checklist,Cooking Equipment,Ventilation hoods clean and functional?,yes_no
+39,104,Kitchen Equipment Audit,audit_checklist,Cooking Equipment,Gas connections leak-free?,yes_no
+40,104,Kitchen Equipment Audit,audit_checklist,Cooking Equipment,Ice machine descaled and clean?,yes_no
+41,104,Kitchen Equipment Audit,audit_checklist,Ventilation,Exhaust fans operating correctly?,yes_no
+42,104,Kitchen Equipment Audit,audit_checklist,Ventilation,Ventilation filters clean?,yes_no
+43,104,Kitchen Equipment Audit,audit_checklist,Overall,Equipment condition rating (1-5),rating
+44,104,Kitchen Equipment Audit,audit_checklist,Overall,Any equipment flagged for replacement?,yes_no
+45,105,Store Issue Report,issue_reporting,Issue Details,Issue type,multiple_choice
+46,105,Store Issue Report,issue_reporting,Issue Details,Severity,multiple_choice
+47,105,Store Issue Report,issue_reporting,Issue Details,Describe the issue,open_text
+48,105,Store Issue Report,issue_reporting,Issue Details,Photo evidence attached?,yes_no

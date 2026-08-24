@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spice Route Kitchens · Operations Pulse</title>
+<!-- Carlito is metric-compatible with Calibri, so non-Windows machines render identically -->
+<link rel="stylesheet" href="/styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<div class="mast">
+  <div class="mast-in">
+    <div>
+      <h1>Spice Route Kitchens · Operations Pulse</h1>
+      <div class="sub">Area manager dashboard · daily operations, compliance and exceptions</div>
+    </div>
+    <div class="cov">Data coverage<b id="coverage"></b></div>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <div class="filters">
+    <div class="f"><label for="fFrom">From</label><input type="date" id="fFrom"></div>
+    <div class="f"><label for="fTo">To</label><input type="date" id="fTo"></div>
+    <div class="f presets"><label>Quick range</label><div class="seg" id="fRange"></div></div>
+    <div class="f"><label for="fAM">Area manager</label><select id="fAM"></select></div>
+    <div class="f"><label for="fState">State</label><select id="fState"></select></div>
+    <div class="f"><label for="fOutlet">Outlet</label><select id="fOutlet"></select></div>
+    <div class="f"><label>&nbsp;</label><button class="reset" id="fReset">Reset filters</button></div>
+  </div>
+
+  <div class="strip" id="strip"></div>
+  <noscript><div class="pill bad"><b>!</b>This dashboard needs JavaScript enabled.</div></noscript>
+  <div class="kpis" id="kpis"></div>
+
+  <div class="g-2-1">
+    <div class="panel">
+      <header><div><h2>Operational trend</h2>
+        <div class="sub">Daily checklist completion and average compliance score</div></div>
+        <div class="meta" id="trendMeta"></div></header>
+      <div class="pad"><div id="trend"></div></div>
+      <div class="legend">
+        <span><i style="background:var(--c1)"></i>Checklist completion</span>
+        <span><i style="background:var(--c2)"></i>Compliance score</span>
+      </div>
+      <div style="height:14px"></div>
+    </div>
+    <div class="panel">
+      <header><div><h2>Issue hotspots</h2>
+        <div class="sub">Tickets raised in the selected period</div></div></header>
+      <div class="pad"><div class="hbars" id="hotspots"></div></div>
+    </div>
+  </div>
+
+  <div class="g-2-1">
+    <div class="panel">
+      <header><div><h2>Checklist completion by outlet</h2>
+        <div class="sub">Against the 85% target · click a bar to open the store</div></div>
+        <div class="meta" id="rankMeta"></div></header>
+      <div class="pad"><div id="rank"></div></div>
+    </div>
+    <div class="panel">
+      <header><div><h2>Ticket resolution</h2>
+        <div class="sub">Every ticket raised in the period</div></div></header>
+      <div class="pad"><div id="donut"></div><div class="hbars" id="prio"
+        style="margin-top:16px"></div></div>
+    </div>
+  </div>
+
+  <div class="g-2-1">
+    <div class="panel">
+      <header><div><h2>Store scorecard</h2>
+        <div class="sub">Click any row for that store's day-by-day detail</div></div></header>
+      <div style="overflow-x:auto"><table id="tbl">
+        <thead><tr id="thead"></tr></thead><tbody id="tbody"></tbody></table></div>
+    </div>
+    <div class="panel">
+      <header><div><h2>Needs attention</h2>
+        <div class="sub">Chase these today</div></div>
+        <div class="meta" id="attnCount"></div></header>
+      <div class="feed" id="attn"></div>
+    </div>
+  </div>
+
+  <div class="g-1-1">
+    <div class="panel">
+      <header><div><h2>Checks failing most often</h2>
+        <div class="sub">Questions answered "No"</div></div></header>
+      <div class="pad"><div class="hbars" id="failBars"></div></div>
+    </div>
+    <div class="panel">
+      <header><div><h2>Open tickets by age</h2>
+        <div class="sub">How long unresolved tickets have been waiting</div></div>
+        <div class="meta" id="ageMeta"></div></header>
+      <div class="pad"><div class="hbars" id="ageBars"></div></div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <header><div><h2>Missed checklists</h2>
+      <div class="sub">Should have been filed but weren't · newest first</div></div>
+      <div class="meta" id="missMeta"></div></header>
+    <div style="max-height:400px;overflow:auto"><table id="missTbl">
+      <thead><tr><th>Date</th><th style="text-align:left">Store</th>
+        <th style="text-align:left">Store manager</th><th>What wasn't filed</th></tr></thead>
+      <tbody id="missBody"></tbody></table></div>
+  </div>
+
+  <div class="foot" id="foot"></div>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="dhead">
+    <div><h2 id="dTitle"></h2><div class="sub" id="dSub"></div></div>
+    <button class="dclose" id="dClose">Close</button>
+  </div>
+  <div class="dbody" id="dBody"></div>
+</aside>
+
+
+
+
+  <script defer src="/api/dashboard.js"></script>
+  <script defer src="/app.js"></script>
+</body>
+</html>

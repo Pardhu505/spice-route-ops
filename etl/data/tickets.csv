@@ -1,0 +1,305 @@
+ticket_id,title,category,status,priority,raised_by,assigned_to,source_submission_id,raised_on,due_date,closed_at
+TKT-00001,Safety hazard reported,Safety,Closed,Low,6,6,2900.0,2026-06-14 12:29:00,2026-06-19 12:29:00,2026-06-17 00:14:44.173589
+TKT-00002,Stock shortage reported,Inventory,Closed,High,6,6,2902.0,2026-06-03 10:56:00,2026-06-04 10:56:00,2026-06-04 01:03:38.676054
+TKT-00003,Safety hazard reported,Safety,Open,Medium,26,6,2903.0,2026-06-12 16:24:00,2026-06-15 16:24:00,
+TKT-00004,Kitchen equipment needs repair,Equipment,Closed,Medium,26,6,2904.0,2026-08-03 14:40:00,2026-08-06 14:40:00,2026-08-05 23:06:54.465756
+TKT-00005,Facility maintenance request,Facilities,Closed,High,28,6,2905.0,2026-08-05 17:12:00,2026-08-06 17:12:00,2026-08-06 18:00:26.331107
+TKT-00006,Stock shortage reported,Inventory,Closed,Low,29,7,2906.0,2026-06-29 11:03:00,2026-07-04 11:03:00,2026-07-06 00:15:19.494776
+TKT-00007,Supply delay affecting operations,Inventory,Closed,Medium,7,7,2907.0,2026-07-23 17:56:00,2026-07-26 17:56:00,2026-07-25 13:46:50.070534
+TKT-00008,Stock shortage reported,Inventory,Closed,Low,30,7,2908.0,2026-05-29 20:30:00,2026-06-03 20:30:00,2026-06-03 19:58:36.681058
+TKT-00009,Shift coverage issue,Staffing,Closed,Low,29,7,2909.0,2026-07-23 14:48:00,2026-07-28 14:48:00,2026-07-26 12:44:05.739804
+TKT-00010,Refrigeration unit issue,Equipment,Closed,Low,29,7,2910.0,2026-07-24 15:11:00,2026-07-29 15:11:00,2026-07-26 14:10:15.002762
+TKT-00011,Hygiene compliance issue,Hygiene,Closed,High,8,8,2912.0,2026-06-22 17:25:00,2026-06-23 17:25:00,2026-06-23 08:25:18.582294
+TKT-00012,Supply delay affecting operations,Inventory,Closed,High,8,2,2913.0,2026-06-16 22:12:00,2026-06-17 22:12:00,2026-06-18 12:32:53.889323
+TKT-00013,Supply delay affecting operations,Inventory,Closed,High,34,8,2914.0,2026-07-08 11:19:00,2026-07-09 11:19:00,2026-07-08 22:43:01.956526
+TKT-00014,Kitchen equipment needs repair,Equipment,Closed,Medium,34,8,2915.0,2026-07-31 10:59:00,2026-08-03 10:59:00,2026-08-03 14:04:12.638229
+TKT-00015,Stock shortage reported,Inventory,Escalated,Medium,34,2,2916.0,2026-07-28 09:08:00,2026-07-31 09:08:00,
+TKT-00016,Facility maintenance request,Facilities,Closed,Medium,33,8,2917.0,2026-07-14 16:22:00,2026-07-17 16:22:00,2026-07-16 08:48:09.601634
+TKT-00017,Food safety concern raised,Hygiene,Closed,Medium,34,8,2918.0,2026-05-24 15:32:00,2026-05-27 15:32:00,2026-05-26 11:53:14.809393
+TKT-00018,Equipment malfunction reported,Equipment,Closed,Medium,34,8,2919.0,2026-07-15 15:27:00,2026-07-18 15:27:00,2026-07-17 02:39:39.041096
+TKT-00019,Equipment malfunction reported,Equipment,Closed,Medium,32,8,2920.0,2026-07-21 13:17:00,2026-07-24 13:17:00,2026-07-23 13:05:46.015258
+TKT-00020,Shift coverage issue,Staffing,Closed,Low,34,8,2921.0,2026-06-10 15:14:00,2026-06-15 15:14:00,2026-06-16 17:58:06.453586
+TKT-00021,Equipment malfunction reported,Equipment,Escalated,Medium,8,2,2922.0,2026-07-03 22:05:00,2026-07-06 22:05:00,
+TKT-00022,Kitchen equipment needs repair,Equipment,Closed,Low,33,8,2923.0,2026-07-23 16:41:00,2026-07-28 16:41:00,2026-07-28 07:47:45.705467
+TKT-00023,Equipment malfunction reported,Equipment,Closed,Low,33,8,2924.0,2026-06-17 09:07:00,2026-06-22 09:07:00,2026-06-23 09:43:31.159061
+TKT-00024,Equipment malfunction reported,Equipment,Open,Medium,34,8,2925.0,2026-05-23 16:12:00,2026-05-26 16:12:00,
+TKT-00025,Equipment malfunction reported,Equipment,Closed,Medium,33,8,2926.0,2026-08-13 13:16:00,2026-08-16 13:16:00,2026-08-14 17:43:27.255157
+TKT-00026,Supply delay affecting operations,Inventory,Closed,High,33,2,2927.0,2026-06-12 19:38:00,2026-06-13 19:38:00,2026-06-14 06:31:44.049699
+TKT-00027,Supply delay affecting operations,Inventory,Closed,Medium,32,8,2928.0,2026-05-20 20:19:00,2026-05-23 20:19:00,2026-05-23 02:10:30.300931
+TKT-00028,Equipment malfunction reported,Equipment,Closed,High,8,8,2929.0,2026-07-09 14:52:00,2026-07-10 14:52:00,2026-07-09 20:39:39.192430
+TKT-00029,Refrigeration unit issue,Equipment,Closed,Medium,33,8,2931.0,2026-06-17 11:46:00,2026-06-20 11:46:00,2026-06-20 20:45:59.782761
+TKT-00030,Store facility issue,Facilities,Closed,Medium,36,9,2932.0,2026-06-17 16:37:00,2026-06-20 16:37:00,2026-06-18 16:44:48.362747
+TKT-00031,Supply delay affecting operations,Inventory,Closed,Medium,35,9,2933.0,2026-07-01 20:05:00,2026-07-04 20:05:00,2026-07-03 06:03:21.811097
+TKT-00032,Refrigeration unit issue,Equipment,Closed,Medium,37,9,2934.0,2026-07-12 20:44:00,2026-07-15 20:44:00,2026-07-13 22:46:21.630724
+TKT-00033,Store facility issue,Facilities,Closed,Low,37,9,2935.0,2026-07-14 15:54:00,2026-07-19 15:54:00,2026-07-19 02:04:10.864928
+TKT-00034,Staffing shortfall reported,Staffing,Closed,Medium,36,9,2936.0,2026-06-05 17:55:00,2026-06-08 17:55:00,2026-06-06 16:55:57.988969
+TKT-00035,Facility maintenance request,Facilities,Open,Low,36,9,2937.0,2026-05-20 15:51:00,2026-05-25 15:51:00,
+TKT-00036,Hygiene compliance issue,Hygiene,Escalated,Medium,9,2,2939.0,2026-06-29 17:01:00,2026-07-02 17:01:00,
+TKT-00037,Supply delay affecting operations,Inventory,Closed,Low,37,9,2940.0,2026-06-07 13:36:00,2026-06-12 13:36:00,2026-06-08 15:16:55.917518
+TKT-00038,Supply delay affecting operations,Inventory,Closed,Medium,36,9,2942.0,2026-07-18 09:21:00,2026-07-21 09:21:00,2026-07-20 11:52:07.022681
+TKT-00039,Stock shortage reported,Inventory,Closed,Low,35,9,2943.0,2026-05-30 10:06:00,2026-06-04 10:06:00,2026-06-01 18:58:08.741290
+TKT-00040,Workplace safety concern,Safety,Closed,Medium,10,10,2944.0,2026-08-15 17:31:00,2026-08-18 17:31:00,2026-08-16 12:00:00.000000
+TKT-00041,Kitchen equipment needs repair,Equipment,Closed,Low,10,10,2945.0,2026-06-13 09:58:00,2026-06-18 09:58:00,2026-06-19 21:42:16.469028
+TKT-00042,Hygiene compliance issue,Hygiene,Closed,High,39,2,2946.0,2026-06-14 11:18:00,2026-06-15 11:18:00,2026-06-16 13:16:23.679979
+TKT-00043,Workplace safety concern,Safety,Closed,Medium,10,10,2947.0,2026-05-26 13:33:00,2026-05-29 13:33:00,2026-05-27 17:44:48.794660
+TKT-00044,Staffing shortfall reported,Staffing,Closed,Low,39,10,2948.0,2026-06-29 21:58:00,2026-07-04 21:58:00,2026-07-06 11:11:17.933816
+TKT-00045,Refrigeration unit issue,Equipment,Closed,Medium,43,11,2949.0,2026-06-08 09:08:00,2026-06-11 09:08:00,2026-06-10 16:23:54.159318
+TKT-00046,Staffing shortfall reported,Staffing,Closed,Medium,43,11,2950.0,2026-05-27 14:57:00,2026-05-30 14:57:00,2026-05-28 21:17:28.775473
+TKT-00047,Refrigeration unit issue,Equipment,Closed,Medium,11,11,2951.0,2026-06-14 12:27:00,2026-06-17 12:27:00,2026-06-15 14:58:25.395036
+TKT-00048,Stock shortage reported,Inventory,Closed,Medium,41,11,2952.0,2026-08-04 17:19:00,2026-08-07 17:19:00,2026-08-06 16:02:45.432996
+TKT-00049,Facility maintenance request,Facilities,Closed,Medium,43,11,2953.0,2026-06-23 11:00:00,2026-06-26 11:00:00,2026-06-25 10:49:40.673923
+TKT-00050,Store facility issue,Facilities,Closed,High,42,3,2954.0,2026-05-27 21:25:00,2026-05-28 21:25:00,2026-05-29 00:57:24.900003
+TKT-00051,Workplace safety concern,Safety,Closed,Medium,42,11,2955.0,2026-06-30 22:36:00,2026-07-03 22:36:00,2026-07-02 14:25:43.555883
+TKT-00052,Facility maintenance request,Facilities,Closed,Low,43,11,2956.0,2026-07-17 17:02:00,2026-07-22 17:02:00,2026-07-20 15:45:32.716585
+TKT-00053,Workplace safety concern,Safety,Closed,Medium,41,11,2957.0,2026-08-09 22:58:00,2026-08-12 22:58:00,2026-08-11 18:50:38.063296
+TKT-00054,Equipment malfunction reported,Equipment,Closed,Low,11,11,2958.0,2026-08-16 21:45:00,2026-08-21 21:45:00,2026-08-16 01:00:00.000000
+TKT-00055,Store facility issue,Facilities,Closed,Medium,45,12,2959.0,2026-08-05 21:51:00,2026-08-08 21:51:00,2026-08-07 15:10:03.839544
+TKT-00056,Workplace safety concern,Safety,Closed,Medium,12,12,2960.0,2026-06-19 10:57:00,2026-06-22 10:57:00,2026-06-21 20:29:26.055393
+TKT-00057,Facility maintenance request,Facilities,Closed,Medium,45,12,2962.0,2026-07-08 19:02:00,2026-07-11 19:02:00,2026-07-10 23:47:50.092692
+TKT-00058,Supply delay affecting operations,Inventory,Closed,High,45,3,2963.0,2026-06-23 22:40:00,2026-06-24 22:40:00,2026-06-24 18:56:55.260080
+TKT-00059,Food safety concern raised,Hygiene,Closed,High,12,12,2964.0,2026-08-16 19:46:00,2026-08-17 19:46:00,2026-08-16 12:00:00.000000
+TKT-00060,Store facility issue,Facilities,Closed,High,44,12,2966.0,2026-05-28 20:06:00,2026-05-29 20:06:00,2026-05-29 21:02:12.367095
+TKT-00061,Supply delay affecting operations,Inventory,Closed,Low,45,12,2967.0,2026-07-15 10:16:00,2026-07-20 10:16:00,2026-07-23 01:13:03.977009
+TKT-00062,Store facility issue,Facilities,Closed,Medium,45,12,2968.0,2026-07-17 08:04:00,2026-07-20 08:04:00,2026-07-20 02:09:24.530874
+TKT-00063,Safety hazard reported,Safety,Escalated,Medium,46,3,2969.0,2026-07-01 19:25:00,2026-07-04 19:25:00,
+TKT-00064,Kitchen equipment needs repair,Equipment,Escalated,Medium,49,3,2970.0,2026-05-23 08:16:00,2026-05-26 08:16:00,
+TKT-00065,Refrigeration unit issue,Equipment,Closed,Low,49,13,2971.0,2026-06-29 18:47:00,2026-07-04 18:47:00,2026-07-01 20:18:20.932631
+TKT-00066,Stock shortage reported,Inventory,Closed,Medium,48,13,2972.0,2026-07-17 09:05:00,2026-07-20 09:05:00,2026-07-19 01:55:22.885712
+TKT-00067,Kitchen equipment needs repair,Equipment,Closed,Low,47,13,2974.0,2026-06-09 21:01:00,2026-06-14 21:01:00,2026-06-11 20:25:39.414019
+TKT-00068,Kitchen equipment needs repair,Equipment,Closed,High,48,13,2975.0,2026-06-25 09:34:00,2026-06-26 09:34:00,2026-06-26 02:11:55.873137
+TKT-00069,Shift coverage issue,Staffing,Closed,Medium,13,13,2976.0,2026-05-28 18:48:00,2026-05-31 18:48:00,2026-05-30 21:46:27.318916
+TKT-00070,Stock shortage reported,Inventory,Closed,Medium,47,13,2977.0,2026-06-07 15:22:00,2026-06-10 15:22:00,2026-06-10 01:41:00.993755
+TKT-00071,Safety hazard reported,Safety,Closed,Medium,48,13,2978.0,2026-05-23 22:43:00,2026-05-26 22:43:00,2026-05-25 22:47:15.696350
+TKT-00072,Stock shortage reported,Inventory,Escalated,Low,47,3,2980.0,2026-08-15 12:28:00,2026-08-20 12:28:00,
+TKT-00073,Staffing shortfall reported,Staffing,Closed,Medium,13,13,2981.0,2026-05-25 20:24:00,2026-05-28 20:24:00,2026-05-27 23:30:18.693088
+TKT-00074,Equipment malfunction reported,Equipment,Escalated,High,13,3,2982.0,2026-07-05 22:15:00,2026-07-06 22:15:00,
+TKT-00075,Equipment malfunction reported,Equipment,Closed,Medium,49,13,2983.0,2026-05-21 14:01:00,2026-05-24 14:01:00,2026-05-24 10:01:03.797775
+TKT-00076,Safety hazard reported,Safety,Escalated,Medium,48,3,2984.0,2026-06-12 18:42:00,2026-06-15 18:42:00,
+TKT-00077,Staffing shortfall reported,Staffing,Closed,Medium,48,13,2985.0,2026-05-31 20:53:00,2026-06-03 20:53:00,2026-06-03 09:15:18.306325
+TKT-00078,Shift coverage issue,Staffing,Closed,Medium,47,13,2986.0,2026-05-24 14:32:00,2026-05-27 14:32:00,2026-05-25 15:18:57.795246
+TKT-00079,Refrigeration unit issue,Equipment,Closed,Medium,49,13,2988.0,2026-07-27 14:27:00,2026-07-30 14:27:00,2026-07-30 12:57:51.266347
+TKT-00080,Supply delay affecting operations,Inventory,Closed,Medium,48,13,2990.0,2026-05-20 14:41:00,2026-05-23 14:41:00,2026-05-23 06:45:34.011811
+TKT-00081,Staffing shortfall reported,Staffing,Closed,Medium,49,13,2991.0,2026-07-07 11:29:00,2026-07-10 11:29:00,2026-07-09 08:20:23.079734
+TKT-00082,Store facility issue,Facilities,Open,Medium,51,14,2992.0,2026-08-11 21:17:00,2026-08-14 21:17:00,
+TKT-00083,Stock shortage reported,Inventory,Open,Medium,51,14,2994.0,2026-08-03 15:06:00,2026-08-06 15:06:00,
+TKT-00084,Shift coverage issue,Staffing,Closed,Low,51,14,2995.0,2026-05-31 17:20:00,2026-06-05 17:20:00,2026-06-05 07:12:25.120703
+TKT-00085,Store facility issue,Facilities,Closed,Low,52,14,2997.0,2026-05-27 13:01:00,2026-06-01 13:01:00,2026-05-29 09:00:09.431934
+TKT-00086,Refrigeration unit issue,Equipment,Closed,Medium,14,14,2998.0,2026-07-23 18:47:00,2026-07-26 18:47:00,2026-07-26 13:27:22.915959
+TKT-00087,Refrigeration unit issue,Equipment,Closed,Low,50,14,2999.0,2026-08-02 19:00:00,2026-08-07 19:00:00,2026-08-09 04:45:20.753558
+TKT-00088,Hygiene compliance issue,Hygiene,Closed,Low,14,14,3000.0,2026-08-05 20:57:00,2026-08-10 20:57:00,2026-08-08 09:28:55.834494
+TKT-00089,Supply delay affecting operations,Inventory,Closed,Low,52,14,3001.0,2026-06-18 19:27:00,2026-06-23 19:27:00,2026-06-22 02:09:14.324623
+TKT-00090,Stock shortage reported,Inventory,Closed,High,51,14,3002.0,2026-05-26 10:23:00,2026-05-27 10:23:00,2026-05-26 17:24:00.702446
+TKT-00091,Hygiene compliance issue,Hygiene,Closed,Medium,55,15,3003.0,2026-06-13 10:24:00,2026-06-16 10:24:00,2026-06-15 07:17:30.542129
+TKT-00092,Refrigeration unit issue,Equipment,Escalated,High,15,3,3004.0,2026-06-18 22:46:00,2026-06-19 22:46:00,
+TKT-00093,Facility maintenance request,Facilities,Closed,High,54,15,3005.0,2026-06-05 12:20:00,2026-06-06 12:20:00,2026-06-05 15:26:12.791412
+TKT-00094,Workplace safety concern,Safety,Open,Medium,54,15,3006.0,2026-07-11 18:52:00,2026-07-14 18:52:00,
+TKT-00095,Workplace safety concern,Safety,Escalated,Medium,53,3,3007.0,2026-06-17 21:46:00,2026-06-20 21:46:00,
+TKT-00096,Equipment malfunction reported,Equipment,Closed,High,15,15,3008.0,2026-06-19 11:34:00,2026-06-20 11:34:00,2026-06-20 02:42:32.576863
+TKT-00097,Facility maintenance request,Facilities,Closed,Medium,57,16,3009.0,2026-08-14 19:46:00,2026-08-17 19:46:00,2026-08-15 20:28:18.734003
+TKT-00098,Shift coverage issue,Staffing,Closed,High,16,4,3011.0,2026-08-07 08:04:00,2026-08-08 08:04:00,2026-08-09 02:25:45.213167
+TKT-00099,Staffing shortfall reported,Staffing,Closed,Medium,57,16,3012.0,2026-06-12 08:40:00,2026-06-15 08:40:00,2026-06-14 10:07:32.598432
+TKT-00100,Safety hazard reported,Safety,Closed,Medium,56,16,3014.0,2026-07-22 09:27:00,2026-07-25 09:27:00,2026-07-24 02:33:09.380268
+TKT-00101,Equipment malfunction reported,Equipment,Escalated,High,57,4,3015.0,2026-06-09 19:12:00,2026-06-10 19:12:00,
+TKT-00102,Equipment malfunction reported,Equipment,Closed,Medium,58,16,3016.0,2026-06-10 17:15:00,2026-06-13 17:15:00,2026-06-12 15:09:43.033970
+TKT-00103,Store facility issue,Facilities,Closed,Medium,16,16,3017.0,2026-07-31 15:40:00,2026-08-03 15:40:00,2026-08-02 17:04:36.764625
+TKT-00104,Safety hazard reported,Safety,Open,Medium,16,16,3018.0,2026-07-19 09:23:00,2026-07-22 09:23:00,
+TKT-00105,Shift coverage issue,Staffing,Open,Low,58,16,3019.0,2026-06-09 15:28:00,2026-06-14 15:28:00,
+TKT-00106,Stock shortage reported,Inventory,Escalated,Medium,56,4,3020.0,2026-06-07 21:50:00,2026-06-10 21:50:00,
+TKT-00107,Supply delay affecting operations,Inventory,Closed,Low,57,16,3021.0,2026-07-06 14:54:00,2026-07-11 14:54:00,2026-07-11 19:49:13.884677
+TKT-00108,Kitchen equipment needs repair,Equipment,Closed,Medium,56,16,3022.0,2026-08-03 16:09:00,2026-08-06 16:09:00,2026-08-05 04:20:55.854418
+TKT-00109,Kitchen equipment needs repair,Equipment,Closed,Medium,17,17,3025.0,2026-06-30 10:45:00,2026-07-03 10:45:00,2026-07-01 19:10:39.388840
+TKT-00110,Stock shortage reported,Inventory,Closed,Medium,59,17,3026.0,2026-06-07 22:12:00,2026-06-10 22:12:00,2026-06-10 05:34:00.852297
+TKT-00111,Store facility issue,Facilities,Open,Low,17,17,3028.0,2026-07-09 22:26:00,2026-07-14 22:26:00,
+TKT-00112,Staffing shortfall reported,Staffing,Closed,High,17,4,3030.0,2026-05-23 22:07:00,2026-05-24 22:07:00,2026-05-25 13:45:01.060408
+TKT-00113,Food safety concern raised,Hygiene,Open,Medium,17,17,3031.0,2026-06-12 20:27:00,2026-06-15 20:27:00,
+TKT-00114,Hygiene compliance issue,Hygiene,Escalated,Medium,18,4,3032.0,2026-07-23 19:31:00,2026-07-26 19:31:00,
+TKT-00115,Safety hazard reported,Safety,Open,Low,18,18,3033.0,2026-08-10 14:59:00,2026-08-15 14:59:00,
+TKT-00116,Store facility issue,Facilities,Closed,Medium,63,18,3034.0,2026-06-19 15:02:00,2026-06-22 15:02:00,2026-06-22 06:22:25.704304
+TKT-00117,Store facility issue,Facilities,Closed,Medium,62,18,3035.0,2026-08-16 18:41:00,2026-08-19 18:41:00,2026-08-16 14:00:00.000000
+TKT-00118,Supply delay affecting operations,Inventory,Open,Medium,18,18,3036.0,2026-08-04 15:43:00,2026-08-07 15:43:00,
+TKT-00119,Workplace safety concern,Safety,Open,Medium,18,18,3037.0,2026-06-19 17:37:00,2026-06-22 17:37:00,
+TKT-00120,Staffing shortfall reported,Staffing,Closed,Medium,67,19,3038.0,2026-06-02 20:05:00,2026-06-05 20:05:00,2026-06-04 00:48:38.963129
+TKT-00121,Equipment malfunction reported,Equipment,Open,Medium,65,19,3039.0,2026-08-17 17:57:00,2026-08-20 17:57:00,
+TKT-00122,Shift coverage issue,Staffing,Open,Medium,66,19,3041.0,2026-06-20 19:19:00,2026-06-23 19:19:00,
+TKT-00123,Staffing shortfall reported,Staffing,Closed,Medium,65,19,3042.0,2026-07-10 20:56:00,2026-07-13 20:56:00,2026-07-12 03:26:21.762357
+TKT-00124,Kitchen equipment needs repair,Equipment,Closed,Medium,67,19,3043.0,2026-08-08 17:49:00,2026-08-11 17:49:00,2026-08-09 19:20:51.608731
+TKT-00125,Staffing shortfall reported,Staffing,Open,High,19,19,3044.0,2026-06-22 19:13:00,2026-06-23 19:13:00,
+TKT-00126,Kitchen equipment needs repair,Equipment,Escalated,High,19,4,3045.0,2026-05-19 10:52:00,2026-05-20 10:52:00,
+TKT-00127,Shift coverage issue,Staffing,Closed,Medium,65,19,3050.0,2026-07-30 21:13:00,2026-08-02 21:13:00,2026-08-02 03:54:44.506698
+TKT-00128,Equipment malfunction reported,Equipment,Closed,High,67,19,3052.0,2026-07-10 15:40:00,2026-07-11 15:40:00,2026-07-11 07:03:39.952899
+TKT-00129,Shift coverage issue,Staffing,Closed,High,66,4,3053.0,2026-05-29 12:05:00,2026-05-30 12:05:00,2026-05-30 15:15:00.918030
+TKT-00130,Facility maintenance request,Facilities,Closed,Medium,67,19,3054.0,2026-06-23 09:21:00,2026-06-26 09:21:00,2026-06-25 00:42:17.658426
+TKT-00131,Food safety concern raised,Hygiene,Closed,Low,19,19,3055.0,2026-06-18 15:31:00,2026-06-23 15:31:00,2026-06-21 08:36:34.514726
+TKT-00132,Store facility issue,Facilities,Closed,Medium,66,19,3056.0,2026-05-26 12:48:00,2026-05-29 12:48:00,2026-05-27 23:32:35.916905
+TKT-00133,Workplace safety concern,Safety,Closed,Low,67,19,3061.0,2026-06-18 13:42:00,2026-06-23 13:42:00,2026-06-22 17:52:58.926743
+TKT-00134,Store facility issue,Facilities,Closed,Medium,19,19,3062.0,2026-08-05 08:22:00,2026-08-08 08:22:00,2026-08-06 16:55:56.571843
+TKT-00135,Safety hazard reported,Safety,Closed,Medium,66,19,3064.0,2026-05-22 17:07:00,2026-05-25 17:07:00,2026-05-25 02:33:04.169939
+TKT-00136,Facility maintenance request,Facilities,Closed,High,67,19,3065.0,2026-07-05 15:39:00,2026-07-06 15:39:00,2026-07-06 14:51:32.611401
+TKT-00137,Food safety concern raised,Hygiene,Closed,Medium,19,19,3066.0,2026-07-10 18:12:00,2026-07-13 18:12:00,2026-07-13 01:14:10.637951
+TKT-00138,Staffing shortfall reported,Staffing,Closed,Medium,69,20,3067.0,2026-05-21 18:23:00,2026-05-24 18:23:00,2026-05-23 10:30:28.766372
+TKT-00139,Supply delay affecting operations,Inventory,Open,Medium,70,20,3068.0,2026-08-13 15:14:00,2026-08-16 15:14:00,
+TKT-00140,Supply delay affecting operations,Inventory,Escalated,Low,20,4,3069.0,2026-08-05 20:05:00,2026-08-10 20:05:00,
+TKT-00141,Hygiene compliance issue,Hygiene,Open,Medium,69,20,3070.0,2026-07-18 18:54:00,2026-07-21 18:54:00,
+TKT-00142,Staffing shortfall reported,Staffing,Closed,Medium,69,20,3071.0,2026-06-25 17:12:00,2026-06-28 17:12:00,2026-06-27 23:57:05.641111
+TKT-00143,Shift coverage issue,Staffing,Open,Medium,70,20,3072.0,2026-06-04 15:50:00,2026-06-07 15:50:00,
+TKT-00144,Food safety concern raised,Hygiene,Escalated,Low,70,4,3074.0,2026-07-15 09:30:00,2026-07-20 09:30:00,
+TKT-00145,Equipment malfunction reported,Equipment,Closed,Medium,71,21,3075.0,2026-06-15 10:48:00,2026-06-18 10:48:00,2026-06-18 04:22:01.667836
+TKT-00146,Stock shortage reported,Inventory,Closed,High,73,5,3077.0,2026-07-07 20:17:00,2026-07-08 20:17:00,2026-07-07 22:30:26.407661
+TKT-00147,Safety hazard reported,Safety,Closed,Medium,21,21,3078.0,2026-08-12 15:57:00,2026-08-15 15:57:00,2026-08-14 01:45:08.064876
+TKT-00148,Workplace safety concern,Safety,Closed,Low,71,21,3080.0,2026-08-15 13:55:00,2026-08-20 13:55:00,2026-08-16 22:21:01.522293
+TKT-00149,Hygiene compliance issue,Hygiene,Open,Low,73,21,3081.0,2026-08-09 13:24:00,2026-08-14 13:24:00,
+TKT-00150,Food safety concern raised,Hygiene,Escalated,Medium,71,5,3082.0,2026-06-17 11:16:00,2026-06-20 11:16:00,
+TKT-00151,Facility maintenance request,Facilities,Escalated,Medium,72,5,3083.0,2026-05-30 09:05:00,2026-06-02 09:05:00,
+TKT-00152,Staffing shortfall reported,Staffing,Closed,Medium,72,21,3084.0,2026-06-12 19:07:00,2026-06-15 19:07:00,2026-06-15 00:30:38.776145
+TKT-00153,Shift coverage issue,Staffing,Open,Medium,71,21,3085.0,2026-06-28 14:36:00,2026-07-01 14:36:00,
+TKT-00154,Facility maintenance request,Facilities,Open,Medium,71,21,3086.0,2026-05-26 17:34:00,2026-05-29 17:34:00,
+TKT-00155,Food safety concern raised,Hygiene,Escalated,High,76,5,3088.0,2026-07-24 18:38:00,2026-07-25 18:38:00,
+TKT-00156,Store facility issue,Facilities,Closed,High,22,22,3089.0,2026-07-08 08:34:00,2026-07-09 08:34:00,2026-07-09 06:42:29.910518
+TKT-00157,Kitchen equipment needs repair,Equipment,Closed,Medium,74,22,3090.0,2026-06-06 21:18:00,2026-06-09 21:18:00,2026-06-09 10:46:36.559017
+TKT-00158,Store facility issue,Facilities,Escalated,Medium,75,5,3091.0,2026-08-14 15:09:00,2026-08-17 15:09:00,
+TKT-00159,Food safety concern raised,Hygiene,Closed,High,75,22,3092.0,2026-08-12 21:51:00,2026-08-13 21:51:00,2026-08-13 10:59:34.763065
+TKT-00160,Hygiene compliance issue,Hygiene,Closed,Low,76,22,3094.0,2026-08-17 17:30:00,2026-08-22 17:30:00,2026-08-16 10:00:00.000000
+TKT-00161,Workplace safety concern,Safety,Closed,Low,22,22,3095.0,2026-06-25 19:24:00,2026-06-30 19:24:00,2026-06-30 18:53:42.536064
+TKT-00162,Equipment malfunction reported,Equipment,Closed,Low,76,22,3096.0,2026-06-07 21:45:00,2026-06-12 21:45:00,2026-06-10 01:59:34.988226
+TKT-00163,Refrigeration unit issue,Equipment,Closed,Medium,22,22,3097.0,2026-08-16 19:03:00,2026-08-19 19:03:00,2026-08-16 09:00:00.000000
+TKT-00164,Workplace safety concern,Safety,Escalated,Medium,76,5,3098.0,2026-07-08 12:52:00,2026-07-11 12:52:00,
+TKT-00165,Hygiene compliance issue,Hygiene,Closed,High,76,5,3099.0,2026-07-28 14:21:00,2026-07-29 14:21:00,2026-07-30 15:31:58.806808
+TKT-00166,Staffing shortfall reported,Staffing,Escalated,High,78,5,3102.0,2026-08-16 21:35:00,2026-08-17 21:35:00,
+TKT-00167,Kitchen equipment needs repair,Equipment,Closed,Low,23,23,3103.0,2026-06-04 13:48:00,2026-06-09 13:48:00,2026-06-08 00:18:53.221283
+TKT-00168,Workplace safety concern,Safety,Closed,Medium,77,23,3104.0,2026-07-16 18:10:00,2026-07-19 18:10:00,2026-07-18 17:53:32.013093
+TKT-00169,Kitchen equipment needs repair,Equipment,Closed,Low,23,23,3105.0,2026-08-16 15:18:00,2026-08-21 15:18:00,2026-08-16 23:00:00.000000
+TKT-00170,Refrigeration unit issue,Equipment,Escalated,High,77,5,3107.0,2026-07-04 19:54:00,2026-07-05 19:54:00,
+TKT-00171,Equipment malfunction reported,Equipment,Closed,Low,77,23,3109.0,2026-05-31 13:30:00,2026-06-05 13:30:00,2026-06-06 17:06:39.746675
+TKT-00172,Stock shortage reported,Inventory,Closed,Low,81,24,3111.0,2026-07-13 10:40:00,2026-07-18 10:40:00,2026-07-14 14:10:15.506151
+TKT-00173,Equipment malfunction reported,Equipment,Closed,Medium,24,24,3112.0,2026-05-23 09:15:00,2026-05-26 09:15:00,2026-05-26 10:31:03.526640
+TKT-00174,Shift coverage issue,Staffing,Closed,Low,82,24,3113.0,2026-06-26 19:38:00,2026-07-01 19:38:00,2026-07-01 09:48:26.656985
+TKT-00175,Safety hazard reported,Safety,Open,Low,24,24,3114.0,2026-08-15 20:42:00,2026-08-20 20:42:00,
+TKT-00176,Hygiene compliance issue,Hygiene,Closed,Medium,24,24,3115.0,2026-08-10 14:17:00,2026-08-13 14:17:00,2026-08-12 12:02:20.496946
+TKT-00177,Workplace safety concern,Safety,Closed,High,24,24,3116.0,2026-05-20 09:07:00,2026-05-21 09:07:00,2026-05-21 08:37:37.458838
+TKT-00178,Shift coverage issue,Staffing,Closed,Low,80,24,3117.0,2026-07-20 18:42:00,2026-07-25 18:42:00,2026-07-24 03:34:13.302975
+TKT-00179,Food safety concern raised,Hygiene,Closed,Medium,80,24,3118.0,2026-08-02 17:36:00,2026-08-05 17:36:00,2026-08-04 17:49:42.774354
+TKT-00180,Stock shortage reported,Inventory,Closed,Medium,80,24,3119.0,2026-08-15 19:06:00,2026-08-18 19:06:00,2026-08-16 07:36:21.228694
+TKT-00181,Staffing shortfall reported,Staffing,Closed,Medium,80,24,3120.0,2026-07-19 18:44:00,2026-07-22 18:44:00,2026-07-22 01:13:11.625269
+TKT-00182,Facility maintenance request,Facilities,Closed,Medium,81,24,3121.0,2026-07-31 10:06:00,2026-08-03 10:06:00,2026-08-02 03:49:30.425861
+TKT-00183,Kitchen equipment needs repair,Equipment,Escalated,Medium,24,5,3122.0,2026-07-26 10:25:00,2026-07-29 10:25:00,
+TKT-00184,Shift coverage issue,Staffing,Closed,High,24,24,3124.0,2026-07-24 21:37:00,2026-07-25 21:37:00,2026-07-26 05:38:30.710902
+TKT-00185,Equipment malfunction reported,Equipment,Closed,Medium,81,24,3125.0,2026-08-11 22:07:00,2026-08-14 22:07:00,2026-08-13 21:15:47.976749
+TKT-00186,Food safety concern raised,Hygiene,Closed,Low,80,24,3126.0,2026-08-15 10:00:00,2026-08-20 10:00:00,2026-08-16 10:00:00.000000
+TKT-00187,Shift coverage issue,Staffing,Open,Medium,24,24,3128.0,2026-05-30 16:16:00,2026-06-02 16:16:00,
+TKT-00188,Facility maintenance request,Facilities,Closed,High,24,24,3129.0,2026-06-03 16:19:00,2026-06-04 16:19:00,2026-06-04 13:23:18.935096
+TKT-00189,Kitchen equipment needs repair,Equipment,Closed,Medium,80,24,3131.0,2026-06-26 08:33:00,2026-06-29 08:33:00,2026-06-27 16:48:31.094370
+TKT-00190,Store facility issue,Facilities,Closed,Low,82,24,3132.0,2026-07-14 10:36:00,2026-07-19 10:36:00,2026-07-17 07:33:14.897027
+TKT-00191,Supply delay affecting operations,Inventory,Closed,Low,81,24,3134.0,2026-08-11 21:02:00,2026-08-16 21:02:00,2026-08-13 08:33:14.834042
+TKT-00192,Safety hazard reported,Safety,Closed,Medium,82,24,3135.0,2026-06-12 10:19:00,2026-06-15 10:19:00,2026-06-14 06:51:15.486394
+TKT-00193,Safety hazard reported,Safety,Escalated,Medium,80,5,3136.0,2026-08-04 16:13:00,2026-08-07 16:13:00,
+TKT-00194,Safety hazard reported,Safety,Closed,Medium,81,24,3137.0,2026-06-04 19:39:00,2026-06-07 19:39:00,2026-06-06 10:13:48.730568
+TKT-00195,Equipment malfunction reported,Equipment,Closed,Medium,85,25,3140.0,2026-08-15 10:34:00,2026-08-18 10:34:00,2026-08-16 23:00:00.000000
+TKT-00196,Staffing shortfall reported,Staffing,Closed,Low,83,25,3141.0,2026-08-07 19:17:00,2026-08-12 19:17:00,2026-08-13 09:41:12.409778
+TKT-00197,Shift coverage issue,Staffing,Escalated,Medium,83,5,3142.0,2026-07-30 18:41:00,2026-08-02 18:41:00,
+TKT-00198,Staffing shortfall reported,Staffing,Closed,Low,83,25,3143.0,2026-06-07 13:50:00,2026-06-12 13:50:00,2026-06-12 20:22:59.120694
+TKT-00199,Store facility issue,Facilities,Closed,Medium,41,11,,2026-08-14 11:03:00,2026-08-17 11:03:00,2026-08-15 13:36:18.336787
+TKT-00200,Shift coverage issue,Staffing,Closed,Medium,47,13,,2026-08-03 19:00:00,2026-08-06 19:00:00,2026-08-05 21:05:02.871671
+TKT-00201,Staffing shortfall reported,Staffing,Escalated,High,57,4,,2026-06-25 12:31:00,2026-06-26 12:31:00,
+TKT-00202,Facility maintenance request,Facilities,Closed,Medium,40,10,,2026-07-12 11:39:00,2026-07-15 11:39:00,2026-07-15 09:10:35.444663
+TKT-00203,Service quality complaint,Customer Complaint,Closed,Medium,32,8,,2026-07-23 10:15:00,2026-07-26 10:15:00,2026-07-23 13:18:20.942449
+TKT-00204,Facility maintenance request,Facilities,Open,Low,46,12,,2026-06-02 12:44:00,2026-06-07 12:44:00,
+TKT-00205,Customer complaint escalated,Customer Complaint,Open,Low,45,12,,2026-07-12 11:30:00,2026-07-17 11:30:00,
+TKT-00206,Customer complaint escalated,Customer Complaint,Open,Low,8,8,,2026-07-22 17:11:00,2026-07-27 17:11:00,
+TKT-00207,Facility maintenance request,Facilities,Closed,Medium,73,21,,2026-08-02 18:40:00,2026-08-05 18:40:00,2026-08-03 22:35:02.494979
+TKT-00208,Hygiene compliance issue,Hygiene,Open,Low,31,7,,2026-06-03 10:25:00,2026-06-08 10:25:00,
+TKT-00209,Stock shortage reported,Inventory,Open,Low,72,21,,2026-06-12 10:27:00,2026-06-17 10:27:00,
+TKT-00210,Safety hazard reported,Safety,Closed,Medium,18,18,,2026-06-13 09:55:00,2026-06-16 09:55:00,2026-06-14 04:29:54.687588
+TKT-00211,Staffing shortfall reported,Staffing,Escalated,Medium,60,4,,2026-07-10 16:19:00,2026-07-13 16:19:00,
+TKT-00212,Hygiene compliance issue,Hygiene,Closed,Low,21,21,,2026-07-01 14:30:00,2026-07-06 14:30:00,2026-07-06 10:09:41.551932
+TKT-00213,Workplace safety concern,Safety,Closed,High,75,22,,2026-07-12 18:03:00,2026-07-13 18:03:00,2026-07-13 04:56:00.025059
+TKT-00214,Kitchen equipment needs repair,Equipment,Closed,Low,53,15,,2026-06-22 13:17:00,2026-06-27 13:17:00,2026-06-24 05:32:59.745012
+TKT-00215,Customer complaint escalated,Customer Complaint,Closed,High,31,2,,2026-07-11 11:20:00,2026-07-12 11:20:00,2026-07-13 02:01:26.942876
+TKT-00216,Food safety concern raised,Hygiene,Closed,High,24,24,,2026-05-24 08:03:00,2026-05-25 08:03:00,2026-05-25 06:42:43.750053
+TKT-00217,Hygiene compliance issue,Hygiene,Closed,Medium,16,16,,2026-06-24 15:17:00,2026-06-27 15:17:00,2026-06-27 07:50:17.101887
+TKT-00218,Shift coverage issue,Staffing,Closed,Low,61,17,,2026-06-11 12:31:00,2026-06-16 12:31:00,2026-06-17 04:32:20.702368
+TKT-00219,Stock shortage reported,Inventory,Closed,High,34,8,,2026-06-26 09:06:00,2026-06-27 09:06:00,2026-06-27 06:25:54.273364
+TKT-00220,Customer complaint escalated,Customer Complaint,Closed,Medium,27,6,,2026-07-28 20:55:00,2026-07-31 20:55:00,2026-07-29 17:30:00.105660
+TKT-00221,Supply delay affecting operations,Inventory,Closed,Medium,44,12,,2026-07-04 19:51:00,2026-07-07 19:51:00,2026-07-06 17:10:55.224158
+TKT-00222,Service quality complaint,Customer Complaint,Closed,Low,52,14,,2026-08-02 16:38:00,2026-08-07 16:38:00,2026-08-05 23:50:35.459607
+TKT-00223,Food safety concern raised,Hygiene,Closed,Low,34,8,,2026-08-10 12:13:00,2026-08-15 12:13:00,2026-08-13 23:22:47.569271
+TKT-00224,Refrigeration unit issue,Equipment,Closed,Medium,49,13,,2026-06-01 10:40:00,2026-06-04 10:40:00,2026-06-03 06:43:39.970165
+TKT-00225,Safety hazard reported,Safety,Closed,Medium,73,21,,2026-06-03 08:37:00,2026-06-06 08:37:00,2026-06-05 02:33:11.656800
+TKT-00226,Hygiene compliance issue,Hygiene,Closed,Medium,68,20,,2026-08-17 15:59:00,2026-08-20 15:59:00,2026-08-16 20:00:00.000000
+TKT-00227,Workplace safety concern,Safety,Escalated,Low,78,5,,2026-08-06 13:19:00,2026-08-11 13:19:00,
+TKT-00228,Facility maintenance request,Facilities,Closed,Medium,34,8,,2026-06-13 16:46:00,2026-06-16 16:46:00,2026-06-15 08:10:33.198340
+TKT-00229,Refrigeration unit issue,Equipment,Open,Low,27,6,,2026-06-04 11:26:00,2026-06-09 11:26:00,
+TKT-00230,Service quality complaint,Customer Complaint,Closed,Medium,82,24,,2026-06-20 20:54:00,2026-06-23 20:54:00,2026-06-23 04:09:35.303024
+TKT-00231,Stock shortage reported,Inventory,Closed,Low,71,21,,2026-07-15 18:45:00,2026-07-20 18:45:00,2026-07-19 15:40:40.716282
+TKT-00232,Staffing shortfall reported,Staffing,Closed,Medium,15,15,,2026-05-27 15:26:00,2026-05-30 15:26:00,2026-05-29 06:00:22.197414
+TKT-00233,Hygiene compliance issue,Hygiene,Escalated,Low,78,5,,2026-08-03 12:44:00,2026-08-08 12:44:00,
+TKT-00234,Stock shortage reported,Inventory,Escalated,Low,36,2,,2026-05-24 17:03:00,2026-05-29 17:03:00,
+TKT-00235,Customer complaint escalated,Customer Complaint,Escalated,Medium,49,3,,2026-07-08 15:43:00,2026-07-11 15:43:00,
+TKT-00236,Food safety concern raised,Hygiene,Open,High,51,14,,2026-07-14 20:32:00,2026-07-15 20:32:00,
+TKT-00237,Workplace safety concern,Safety,Closed,High,67,19,,2026-07-07 14:38:00,2026-07-08 14:38:00,2026-07-08 06:32:56.538229
+TKT-00238,Hygiene compliance issue,Hygiene,Escalated,Medium,19,4,,2026-06-11 08:10:00,2026-06-14 08:10:00,
+TKT-00239,Workplace safety concern,Safety,Escalated,High,29,2,,2026-08-16 08:56:00,2026-08-17 08:56:00,
+TKT-00240,Workplace safety concern,Safety,Closed,Medium,29,7,,2026-08-17 19:33:00,2026-08-20 19:33:00,2026-08-16 15:00:00.000000
+TKT-00241,Store facility issue,Facilities,Closed,Low,29,7,,2026-06-16 12:45:00,2026-06-21 12:45:00,2026-06-19 19:59:51.975085
+TKT-00242,Safety hazard reported,Safety,Closed,High,52,14,,2026-06-03 10:14:00,2026-06-04 10:14:00,2026-06-04 11:47:56.533877
+TKT-00243,Safety hazard reported,Safety,Open,High,63,18,,2026-06-18 12:02:00,2026-06-19 12:02:00,
+TKT-00244,Stock shortage reported,Inventory,Escalated,Medium,16,4,,2026-06-05 12:55:00,2026-06-08 12:55:00,
+TKT-00245,Customer complaint escalated,Customer Complaint,Closed,Medium,50,14,,2026-06-19 11:34:00,2026-06-22 11:34:00,2026-06-21 11:38:34.723129
+TKT-00246,Refrigeration unit issue,Equipment,Open,Medium,37,9,,2026-08-10 13:40:00,2026-08-13 13:40:00,
+TKT-00247,Supply delay affecting operations,Inventory,Closed,Medium,62,18,,2026-06-29 09:45:00,2026-07-02 09:45:00,2026-06-30 17:02:36.122358
+TKT-00248,Service quality complaint,Customer Complaint,Closed,High,65,4,,2026-06-05 14:57:00,2026-06-06 14:57:00,2026-06-07 13:37:23.281318
+TKT-00249,Stock shortage reported,Inventory,Closed,High,60,17,,2026-05-26 18:52:00,2026-05-27 18:52:00,2026-05-27 17:37:33.419625
+TKT-00250,Store facility issue,Facilities,Closed,Low,70,20,,2026-07-03 11:46:00,2026-07-08 11:46:00,2026-07-05 15:19:45.811792
+TKT-00251,Hygiene compliance issue,Hygiene,Open,Low,68,20,,2026-06-20 08:34:00,2026-06-25 08:34:00,
+TKT-00252,Customer complaint escalated,Customer Complaint,Closed,Low,24,24,,2026-08-15 14:41:00,2026-08-20 14:41:00,2026-08-16 15:00:00.000000
+TKT-00253,Store facility issue,Facilities,Closed,Low,57,16,,2026-07-14 11:20:00,2026-07-19 11:20:00,2026-07-18 15:59:36.598760
+TKT-00254,Food safety concern raised,Hygiene,Closed,Medium,16,16,,2026-08-01 18:51:00,2026-08-04 18:51:00,2026-08-04 05:49:28.617174
+TKT-00255,Food safety concern raised,Hygiene,Escalated,High,75,5,,2026-07-15 11:46:00,2026-07-16 11:46:00,
+TKT-00256,Supply delay affecting operations,Inventory,Closed,Medium,33,8,,2026-06-06 15:05:00,2026-06-09 15:05:00,2026-06-08 07:30:48.223232
+TKT-00257,Hygiene compliance issue,Hygiene,Closed,Low,59,17,,2026-07-16 10:52:00,2026-07-21 10:52:00,2026-07-19 15:58:22.036951
+TKT-00258,Hygiene compliance issue,Hygiene,Closed,Medium,60,17,,2026-07-30 15:46:00,2026-08-02 15:46:00,2026-08-01 18:03:35.325426
+TKT-00259,Customer complaint escalated,Customer Complaint,Closed,High,57,16,,2026-06-24 08:19:00,2026-06-25 08:19:00,2026-06-24 20:08:24.686729
+TKT-00260,Hygiene compliance issue,Hygiene,Closed,Low,31,7,,2026-07-08 18:38:00,2026-07-13 18:38:00,2026-07-14 17:31:10.669230
+TKT-00261,Equipment malfunction reported,Equipment,Escalated,Low,65,4,,2026-06-06 09:27:00,2026-06-11 09:27:00,
+TKT-00262,Staffing shortfall reported,Staffing,Closed,Low,59,17,,2026-08-09 14:06:00,2026-08-14 14:06:00,2026-08-11 22:15:55.253031
+TKT-00263,Service quality complaint,Customer Complaint,Escalated,Low,67,4,,2026-05-20 17:06:00,2026-05-25 17:06:00,
+TKT-00264,Staffing shortfall reported,Staffing,Closed,Medium,33,8,,2026-05-21 09:52:00,2026-05-24 09:52:00,2026-05-23 07:01:57.709797
+TKT-00265,Facility maintenance request,Facilities,Closed,Low,81,24,,2026-08-09 08:08:00,2026-08-14 08:08:00,2026-08-11 21:11:17.423509
+TKT-00266,Facility maintenance request,Facilities,Closed,Medium,24,24,,2026-05-29 12:09:00,2026-06-01 12:09:00,2026-06-01 04:12:15.936483
+TKT-00267,Store facility issue,Facilities,Closed,Low,73,21,,2026-05-20 20:06:00,2026-05-25 20:06:00,2026-05-24 06:01:36.274384
+TKT-00268,Store facility issue,Facilities,Closed,High,82,24,,2026-08-17 09:12:00,2026-08-18 09:12:00,2026-08-16 19:00:00.000000
+TKT-00269,Facility maintenance request,Facilities,Open,High,35,9,,2026-07-30 15:52:00,2026-07-31 15:52:00,
+TKT-00270,Stock shortage reported,Inventory,Closed,High,16,16,,2026-06-30 15:09:00,2026-07-01 15:09:00,2026-07-01 07:59:10.578165
+TKT-00271,Refrigeration unit issue,Equipment,Closed,Medium,52,14,,2026-07-27 19:17:00,2026-07-30 19:17:00,2026-07-29 18:06:11.881717
+TKT-00272,Safety hazard reported,Safety,Closed,High,48,13,,2026-06-03 08:52:00,2026-06-04 08:52:00,2026-06-04 01:18:48.258362
+TKT-00273,Refrigeration unit issue,Equipment,Open,High,42,11,,2026-07-27 12:06:00,2026-07-28 12:06:00,
+TKT-00274,Facility maintenance request,Facilities,Closed,High,68,4,,2026-07-11 10:00:00,2026-07-12 10:00:00,2026-07-12 13:11:54.305585
+TKT-00275,Equipment malfunction reported,Equipment,Closed,High,17,4,,2026-06-17 14:24:00,2026-06-18 14:24:00,2026-06-18 22:43:48.555606
+TKT-00276,Supply delay affecting operations,Inventory,Closed,Medium,72,21,,2026-08-10 12:14:00,2026-08-13 12:14:00,2026-08-12 12:26:26.441175
+TKT-00277,Customer complaint escalated,Customer Complaint,Closed,Medium,37,9,,2026-06-02 15:10:00,2026-06-05 15:10:00,2026-06-02 22:01:02.268977
+TKT-00278,Hygiene compliance issue,Hygiene,Closed,Low,53,15,,2026-06-01 12:22:00,2026-06-06 12:22:00,2026-06-05 05:25:13.629011
+TKT-00279,Safety hazard reported,Safety,Closed,Medium,73,21,,2026-06-30 09:23:00,2026-07-03 09:23:00,2026-07-02 08:58:58.573750
+TKT-00280,Kitchen equipment needs repair,Equipment,Closed,High,52,3,,2026-08-04 10:11:00,2026-08-05 10:11:00,2026-08-04 23:20:05.010005
+TKT-00281,Workplace safety concern,Safety,Closed,Low,58,16,,2026-06-30 17:11:00,2026-07-05 17:11:00,2026-07-04 11:17:18.227635
+TKT-00282,Food safety concern raised,Hygiene,Closed,High,55,3,,2026-08-12 18:19:00,2026-08-13 18:19:00,2026-08-13 21:54:10.928713
+TKT-00283,Supply delay affecting operations,Inventory,Closed,Medium,59,17,,2026-06-01 12:58:00,2026-06-04 12:58:00,2026-06-02 22:38:09.011432
+TKT-00284,Customer complaint escalated,Customer Complaint,Open,Medium,82,24,,2026-07-05 12:51:00,2026-07-08 12:51:00,
+TKT-00285,Facility maintenance request,Facilities,Closed,High,6,2,,2026-05-19 10:49:00,2026-05-20 10:49:00,2026-05-20 08:29:31.597329
+TKT-00286,Supply delay affecting operations,Inventory,Closed,Medium,21,21,,2026-06-06 14:28:00,2026-06-09 14:28:00,2026-06-09 14:16:53.289895
+TKT-00287,Store facility issue,Facilities,Closed,High,41,3,,2026-05-27 09:36:00,2026-05-28 09:36:00,2026-05-28 18:13:58.071886
+TKT-00288,Service quality complaint,Customer Complaint,Open,Medium,19,19,,2026-06-23 10:05:00,2026-06-26 10:05:00,
+TKT-00289,Food safety concern raised,Hygiene,Open,Medium,51,14,,2026-06-11 20:24:00,2026-06-14 20:24:00,
+TKT-00290,Supply delay affecting operations,Inventory,Escalated,Medium,60,4,,2026-07-21 14:30:00,2026-07-24 14:30:00,
+TKT-00291,Safety hazard reported,Safety,Escalated,Medium,63,4,,2026-08-08 13:08:00,2026-08-11 13:08:00,
+TKT-00292,Shift coverage issue,Staffing,Closed,Medium,14,14,,2026-07-11 16:31:00,2026-07-14 16:31:00,2026-07-13 16:55:10.765583
+TKT-00293,Safety hazard reported,Safety,Closed,Medium,17,17,,2026-07-26 11:24:00,2026-07-29 11:24:00,2026-07-28 08:29:48.065420
+TKT-00294,Safety hazard reported,Safety,Escalated,Medium,8,2,,2026-07-11 16:36:00,2026-07-14 16:36:00,
+TKT-00295,Customer complaint escalated,Customer Complaint,Closed,Low,71,21,,2026-05-30 11:23:00,2026-06-04 11:23:00,2026-06-02 08:19:20.890428
+TKT-00296,Food safety concern raised,Hygiene,Closed,Medium,77,23,,2026-05-21 13:35:00,2026-05-24 13:35:00,2026-05-24 20:42:03.874387
+TKT-00297,Food safety concern raised,Hygiene,Closed,High,81,5,,2026-06-02 08:58:00,2026-06-03 08:58:00,2026-06-04 02:46:23.449976
+TKT-00298,Stock shortage reported,Inventory,Closed,Medium,48,13,,2026-06-05 12:29:00,2026-06-08 12:29:00,2026-06-07 09:59:23.021552
+TKT-00299,Facility maintenance request,Facilities,Open,Medium,17,17,,2026-07-28 14:15:00,2026-07-31 14:15:00,
+TKT-00300,Facility maintenance request,Facilities,Open,Low,82,24,,2026-06-16 08:47:00,2026-06-21 08:47:00,
+TKT-00301,Kitchen equipment needs repair,Equipment,Escalated,Low,78,5,,2026-08-16 19:09:00,2026-08-21 19:09:00,
+TKT-00302,Service quality complaint,Customer Complaint,Closed,Medium,34,8,,2026-05-22 19:27:00,2026-05-25 19:27:00,2026-05-25 11:40:40.024278
+TKT-00303,Equipment malfunction reported,Equipment,Closed,Medium,28,6,,2026-08-16 09:42:00,2026-08-19 09:42:00,2026-08-16 05:00:00.000000
+TKT-00304,Staffing shortfall reported,Staffing,Closed,Low,62,18,,2026-08-03 10:01:00,2026-08-08 10:01:00,2026-08-07 03:47:04.188516

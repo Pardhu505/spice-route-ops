@@ -1,0 +1,86 @@
+user_id,name,role,department,outlet_id,reporting_manager_id
+1,Anjali Menon,Head of Operations,Operations,,
+2,Mohit Iyer,Area Manager,Operations,,1
+3,Priya Nair,Area Manager,Operations,,1
+4,Dev Reddy,Area Manager,Operations,,1
+5,Vinod Patel,Area Manager,Operations,,1
+6,Ritu Gupta,Store Manager,Operations,1,2
+7,Rajesh Singh,Store Manager,Operations,2,2
+8,Naveen Mehta,Store Manager,Operations,3,2
+9,Yash Rao,Store Manager,Operations,4,2
+10,Payal Das,Store Manager,Operations,5,2
+11,Sonal Kapoor,Store Manager,Operations,6,3
+12,Seema Chopra,Store Manager,Operations,7,3
+13,Meera Joshi,Store Manager,Operations,8,3
+14,Vandana Malhotra,Store Manager,Operations,9,3
+15,Radhika Bose,Store Manager,Operations,10,3
+16,Sameer Menon,Store Manager,Operations,11,4
+17,Ankit Pillai,Store Manager,Operations,12,4
+18,Anu Bhat,Store Manager,Operations,13,4
+19,Alok Kulkarni,Store Manager,Operations,14,4
+20,Namita Sharma,Store Manager,Operations,15,4
+21,Queenie Verma,Store Manager,Operations,16,5
+22,Kajal Iyer,Store Manager,Operations,17,5
+23,Aparna Nair,Store Manager,Operations,18,5
+24,Isha Reddy,Store Manager,Operations,19,5
+25,Karan Patel,Store Manager,Operations,20,5
+26,Komal Gupta,Crew Member,Kitchen,1,6
+27,Chandni Singh,Crew Member,Front of House,1,6
+28,Harsh Mehta,Crew Member,Kitchen,1,6
+29,Ritika Rao,Crew Member,Kitchen,2,7
+30,Geeta Das,Crew Member,Front of House,2,7
+31,Shalini Kapoor,Crew Member,Kitchen,2,7
+32,Bhavna Chopra,Crew Member,Kitchen,3,8
+33,Tushar Joshi,Crew Member,Front of House,3,8
+34,Ashish Malhotra,Crew Member,Kitchen,3,8
+35,Ira Bose,Crew Member,Kitchen,4,9
+36,Sanjay Menon,Crew Member,Front of House,4,9
+37,Varun Pillai,Crew Member,Kitchen,4,9
+38,Anita Bhat,Crew Member,Kitchen,5,10
+39,Vivek Kulkarni,Crew Member,Front of House,5,10
+40,Lata Sharma,Crew Member,Kitchen,5,10
+41,Rajat Verma,Crew Member,Kitchen,6,11
+42,Tarun Iyer,Crew Member,Front of House,6,11
+43,Divya Nair,Crew Member,Kitchen,6,11
+44,Aditya Reddy,Crew Member,Kitchen,7,12
+45,Ekta Patel,Crew Member,Front of House,7,12
+46,Amit Gupta,Crew Member,Kitchen,7,12
+47,Ajay Singh,Crew Member,Kitchen,8,13
+48,Siddharth Mehta,Crew Member,Front of House,8,13
+49,Vishal Rao,Crew Member,Kitchen,8,13
+50,Deepak Das,Crew Member,Kitchen,9,14
+51,Jatin Kapoor,Crew Member,Front of House,9,14
+52,Suresh Chopra,Crew Member,Kitchen,9,14
+53,Anjali Joshi,Crew Member,Kitchen,10,15
+54,Arjun Malhotra,Crew Member,Front of House,10,15
+55,Abhishek Bose,Crew Member,Kitchen,10,15
+56,Rakesh Menon,Crew Member,Kitchen,11,16
+57,Nitin Pillai,Crew Member,Front of House,11,16
+58,Neha Bhat,Crew Member,Kitchen,11,16
+59,Oindri Kulkarni,Crew Member,Kitchen,12,17
+60,Shreya Sharma,Crew Member,Front of House,12,17
+61,Faisal Verma,Crew Member,Kitchen,12,17
+62,Sandeep Iyer,Crew Member,Kitchen,13,18
+63,Nikhil Nair,Crew Member,Front of House,13,18
+64,Rahul Reddy,Crew Member,Kitchen,13,18
+65,Rohit Patel,Crew Member,Kitchen,14,19
+66,Sunita Gupta,Crew Member,Front of House,14,19
+67,Prateek Singh,Crew Member,Kitchen,14,19
+68,Juhi Mehta,Crew Member,Kitchen,15,20
+69,Uma Rao,Crew Member,Front of House,15,20
+70,Kiran Das,Crew Member,Kitchen,15,20
+71,Hemant Kapoor,Crew Member,Kitchen,16,21
+72,Girish Chopra,Crew Member,Front of House,16,21
+73,Simran Joshi,Crew Member,Kitchen,16,21
+74,Nisha Malhotra,Crew Member,Kitchen,17,22
+75,Lokesh Bose,Crew Member,Front of House,17,22
+76,Sania Menon,Crew Member,Kitchen,17,22
+77,Vikram Pillai,Crew Member,Kitchen,18,23
+78,Manish Bhat,Crew Member,Front of House,18,23
+79,Gunjan Kulkarni,Crew Member,Kitchen,18,23
+80,Pooja Sharma,Crew Member,Kitchen,19,24
+81,Poonam Verma,Crew Member,Front of House,19,24
+82,Kavita Iyer,Crew Member,Kitchen,19,24
+83,Swati Nair,Crew Member,Kitchen,20,25
+84,Gaurav Reddy,Crew Member,Front of House,20,25
+85,Tanvi Patel,Crew Member,Kitchen,20,25
